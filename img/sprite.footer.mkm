@@ -1,0 +1,12 @@
+<MKM version="2.0" imageFileUrl="file:///F:/NOTE/%e7%ac%ac%e5%9b%9b%e5%91%a8/%e4%ba%ac%e4%b8%9c/img/sprite.footer.png">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="18" y="110" textMaxWidth="100" offsetX="25" offsetY="10" text="坐标108 ，154"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="19" y="129" textMaxWidth="100" offsetX="25" offsetY="10" text="127，154"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="22" y="148" textMaxWidth="100" offsetX="25" offsetY="10" text="147，154"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="19" y="163" textMaxWidth="100" offsetX="25" offsetY="10" text="167，154"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="144" y="103" textMaxWidth="100" offsetX="25" offsetY="10" text="14，14"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="145" y="126" textMaxWidth="100" offsetX="25" offsetY="10" text="17，12"/>
+    <RectMark color="16711680" x="107" y="172" offsetX="0" offsetY="0"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="171" y="212" textMaxWidth="100" offsetX="25" offsetY="10" text="107，172"/>
+  </Marks>
+</MKM>
