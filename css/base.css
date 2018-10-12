@@ -1,0 +1,11 @@
+.iconfont {
+	font-family: iconfont;
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 608187 */
+  src: url('//at.alicdn.com/t/font_608187_radjmz72khm.eot');
+  src: url('//at.alicdn.com/t/font_608187_radjmz72khm.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_608187_radjmz72khm.woff') format('woff'),
+  url('//at.alicdn.com/t/font_608187_radjmz72khm.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_608187_radjmz72khm.svg#iconfont') format('svg');
+}

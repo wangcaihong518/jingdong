@@ -12,6 +12,9 @@ body {
 .img:hover {
 	opacity: 0.8;
 }
+.slidebar_login_bottom .slidebar_login_bottom_t .icon-chonghuafei {
+	font-size: 24px;
+}
 /*头部搜索*/
 .header_search {
 	position: fixed;
@@ -746,6 +749,9 @@ body {
 	height: 38px;
 	margin: 28px 22px 18px;
 }
+.bottom {
+	margin-top: 18px;
+}
 .slidebar_login_bottom_t a {
 	font-size: 12px;
 	color:#E8E2D6;
@@ -768,8 +774,8 @@ body {
 	color :#E8E2D6;
 }
 .slidebar_login_bottom_t span {
-
-	line-height: 30px;
+	display: inline-block;
+	font-size: 10px;
 }
 .slidebar_login_bottom_m {
 	width: 162px;
@@ -798,6 +804,7 @@ body {
 .slidebar_login_bottom_m span {
 	display: block;
 	line-height: 14px;
+	font-size: 10px;
 }
 .miaosha {
 	clear: both;
@@ -1808,8 +1815,7 @@ body {
 	transition: .2s;
 }
 .tro ul .one:hover>div{
-	width: 60px;
-	height: 60px;
+	
 	transition: .2s;
 	transform: scale(1,1);
 	color: #fff;
@@ -1830,6 +1836,7 @@ body {
 	height: 60px;
 	transition: .2s;
 	color: #fff;
+	transform: scale(1,1);
 }
 
 
@@ -1848,6 +1855,7 @@ body {
 	height: 60px;
 	transition: .2s;
 	color: #fff;
+	transform: scale(1,1);
 }
 
 .tro ul .four:hover p{
@@ -1865,6 +1873,7 @@ body {
 	height: 60px;
 	transition: .2s;
 	color: #fff;
+	transform: scale(1,1);
 }
 .tro ul li a img {
 	display: block;
@@ -1890,8 +1899,8 @@ body {
 	position: relative;
 }
 .tro ul .one div{
-	width: 0;
-	height: 0;
+	width: 60px;
+	height: 60px;
 	background-color: #000;
 	position: absolute;
 	left:83px;
@@ -1902,14 +1911,15 @@ body {
 	line-height: 60px;
 	font-size: 12px;
 	color: #f0f3ef;
+	transform: scale(0,0);
 
 }
 .tro ul .two div{
-	width: 0;
-	height: 0;
+	width: 60px;
+	height: 60px;
 	background-color: #000;
 	position: absolute;
-	left:314px;
+	left:330px;
 	bottom:-289px;
 	border-radius: 50%;
 	color: #FFF;
@@ -1917,13 +1927,14 @@ body {
 	line-height: 60px;
 	font-size: 12px;
 	color: #f0f3ef;
+	transform: scale(0,0);
 }
 .tro ul .three div{
-	width: 0;
-	height: 0;
+	width: 60px;
+	height: 60px;
 	background-color: #000;
 	position: absolute;
-	left:554px;
+	left:576px;
 	bottom:-289px;
 	border-radius: 50%;
 	color: #FFF;
@@ -1931,13 +1942,14 @@ body {
 	line-height: 60px;
 	font-size: 12px;
 	color: #f0f3ef;
+	transform: scale(0,0);
 }
 .tro ul .four div{
-	width: 0;
-	height: 0;
+	width: 60px;
+	height: 60px;
 	background-color: #000;
 	position: absolute;
-	left:792px;
+	left:810px;
 	bottom:-289px;
 	border-radius: 50%;
 	color: #FFF;
@@ -1945,6 +1957,7 @@ body {
 	line-height: 60px;
 	font-size: 12px;
 	color: #f0f3ef;
+	transform: scale(0,0);
 }
 #last {
 	margin-right: 0;
@@ -2029,6 +2042,7 @@ body {
 .footer_m dd {
 	text-indent: -40px;
 	font-size: 12px;
+	line-height: 20px;
 }
 .footer_m dd:hover {
 	color: #F84D52;
